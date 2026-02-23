@@ -1,0 +1,91 @@
+# Contributing Your Responses
+
+This is an open dataset. If you take the exercise and want to add your responses, here’s how.
+
+-----
+
+## How to Submit
+
+1. Take the exercise using the prompts in the README
+1. Answer honestly — don’t look at other responses first if you want your data to be clean
+1. Format your responses using the template below
+1. Submit via pull request or open an issue with your responses pasted in
+
+-----
+
+## Response Template
+
+Copy and fill this in:
+
+```
+# Responses — [Your name or handle, or "Anonymous"]
+**Date:** 
+**Context:** [Optional — e.g. "took this before reading any other responses", "AI researcher", "took this cold", etc.]
+
+---
+
+### Prompt 1
+- **Choice:** 
+- **Reason:** 
+- **First step:** 
+- **Risk / blind spot:** 
+- **Optional rewrite:** 
+
+### Prompt 2
+- **Choice:** 
+- **Reason:** 
+- **First step:** 
+- **Risk / blind spot:** 
+- **Optional rewrite:** 
+
+### Prompt 3
+- **Choice:** 
+- **Reason:** 
+- **First step:** 
+- **Risk / blind spot:** 
+- **Optional rewrite:** 
+
+### Prompt 4
+- **Choice:** 
+- **Reason:** 
+- **First step:** 
+- **Risk / blind spot:** 
+- **Optional rewrite:** 
+
+### Prompt 5
+- **Choice:** 
+- **Reason:** 
+- **First step:** 
+- **Risk / blind spot:** 
+- **Optional rewrite:** 
+
+### Prompt 6
+- **Choice:** 
+- **Reason:** 
+- **First step:** 
+- **Risk / blind spot:** 
+- **Optional rewrite:** 
+```
+
+-----
+
+## Privacy
+
+If you don’t want your name attached, submit as Anonymous. If you don’t want your responses shared publicly at all, don’t submit them here — they’re yours.
+
+-----
+
+## Notes on Data Integrity
+
+- If you read other responses before answering, note that in your Context field — it’s still useful data, just different data
+- There are no wrong answers and no correct answers to perform
+- The reason field matters more than the letter — that’s where the actual pattern lives
+- You can take it more than once (different contexts, different dates) and submit multiple entries
+
+-----
+
+## For AI Researchers / Developers
+
+If you’re running this on a model and want to add the results to the dataset, follow the same format. Include the model name, version if known, and whether the model had prior context about the framework before answering.
+
+The pre-framework vs post-framework distinction has been one of the more interesting findings in this dataset so far — if you can collect both, both are worth including.
